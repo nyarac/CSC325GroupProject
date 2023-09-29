@@ -1,5 +1,6 @@
 # CSC325GroupProject
 CSC 325 Group Project Repository
+
 #WRSPM 
 World Assumptions:
 - Users prioritize convenient and nutritious meals
