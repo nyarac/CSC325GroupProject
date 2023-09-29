@@ -16,3 +16,8 @@ User requirements:
 - Detailed meal profiles that show the ingredients, nutrition facts, etc
 - An area to make an account and somewhere to login
 - A user interface to track, change, or cancel orders and to set delivery preferences
+
+Specifications and Interface needs: 
+- Detailed meal profiles that show the ingredients, nutrition facts, etc
+- An area to make an account and somewhere to login
+- A user interface to track, change, or cancel orders and to set delivery preferences
